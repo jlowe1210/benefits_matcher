@@ -1,0 +1,46 @@
+.container {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.qualify_container {
+  margin: 0 auto;
+  text-align: center;
+  display: inline-block;
+}
+
+.qualify_container p {
+  font-size: 2.5rem;
+  font-weight: 100;
+  line-height: 4.5rem;
+}
+
+.qualify_container h1 {
+  color: #30bdaa;
+  font-weight: 100;
+  font-style: bold;
+  margin-bottom: 2rem;
+  font-size: 3rem;
+}
+
+.qualify_container .benefits {
+  color: #810e10;
+}
+
+.qualify_btn {
+  width: 80%;
+  padding: 15px;
+  background-color: #366caf;
+  color: white;
+  border: none;
+  font-size: 2.6rem;
+  cursor: pointer;
+}
+
+.last_step {
+  font-size: 1.8rem !important;
+}
+
+.last_step_first_word {
+  font-style: bold;
+}

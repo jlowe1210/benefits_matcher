@@ -1,0 +1,44 @@
+.jumbo {
+  width: 100%;
+  height: 400px;
+  background-color: lightgray;
+}
+
+.jumbo_headline {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10px;
+}
+.jumbo_text {
+  text-align: center;
+}
+
+.headline {
+  font-size: 3.5rem;
+  margin-bottom: 10px;
+}
+.sub_headline {
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+
+.qaulify_btn {
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  background-color: #366caf;
+  border-radius: 10px;
+  font-size: 2rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 500px;
+}
